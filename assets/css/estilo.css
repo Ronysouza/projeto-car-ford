@@ -1,0 +1,236 @@
+.top{
+	background-image: url(http://carford.gq/assets/images/f5.jpg);
+background-position: center;
+background-repeat: no-repeat; 
+
+ 
+}
+
+body{
+     margin: auto;
+ max-width: 1900px;
+ width: 100%;
+    
+}
+
+.topo_img{
+	max-width: 500px;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	padding-top: 50px;
+	margin-bottom: 50px;
+}
+
+.menu_top{
+	max-width: 900px;
+	width: 100%;
+	margin: auto;
+ 
+	margin-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.menu_top a{
+	text-align: center;
+	text-decoration: none;
+	color: #666;
+	font-size: 20px;
+}
+
+.menu_a{
+	
+float: left;
+ 
+margin-left: 10px;
+margin-right: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 5px;
+transition: 0.5s;
+}
+
+.menu_a:hover{
+	transition: 0.5s;
+	background-color:    #363636;
+	color: #fff;
+}
+
+.menu_b{
+	background-color:    #363636;
+	color: #fff;
+}
+
+.menu_a a:hover{
+	color: #fff;
+}
+
+.rodape_img{
+	padding:40px;
+	  background-color:  #363636 ;
+}
+
+  
+  .rodape_text{
+  	color: #666;
+  	font-size: 15px;
+  	font-weight: 400;
+  	color: #999;
+  }
+
+  .menu-inf-rodape a{
+  		color: #666;
+  	font-size: 20px;
+  	font-weight: 400;
+  	color: #999;
+  }
+
+  .rodape_img strong{
+  	color: #fff;
+  	font-weight: 500;
+  }
+
+  .carroussel{
+  	max-width: 1500px;
+  	width: 100%;
+  	margin: auto;
+  }
+
+  .banner-carroussel-inf{
+  	background-image: url(http://carford.gq/assets/images/fd.jpg);
+  }
+
+  .container_img_banner{
+  	text-align: center;
+  	padding-top: 50px;
+  		padding-bottom:50px;
+  
+
+  }
+  .container_img_banner div{
+	transition: 0.05s;
+
+  }
+
+  .container_img_banner div:hover{
+  	transition: 0.5s;
+  	transform: scale(1.05);
+  }
+
+  hr{
+  	border: 0.5px dashed #ddd;
+  }
+
+  .home_video{
+  	 
+   max-width: 800px;
+   width: 100%;
+  	margin: auto;
+  
+  	margin-bottom: 20px;
+  	margin-top: 20px;
+  }
+
+  .home_titulo2 h1{
+
+   text-align: center;
+  color: #8B0000;
+  font-weight: 700;
+
+font-size: 30px;
+
+
+  }
+
+
+
+  .home_titulo2  p{
+  	text-align: center;
+  	font-size: 20px;
+  	color: #999;
+  	font-weight: 400;
+  }
+
+  .home_cont{
+  	border-bottom: 2px solid red;
+  	background-image: url(http://carford.gq/assets/images/f3.jpg);
+  	text-align: center;
+  }
+
+  .home_cont h2{
+  	color: #fff;
+  	font-weight: 400;
+  }
+
+    .home_cont p{
+    	color: #999;
+    	font-size: 20px;
+    	font-weight: 500;
+    }
+
+    .home_form{
+     background-color: #f8f8f8;
+     padding-top: 20px;
+     padding-bottom: 20px;
+
+    }
+
+    input {
+    	width: 100%;
+    	
+    	border: 1px solid #000;
+    	 
+    }
+
+    .home_form p{
+    	font-size: 20px;
+    	color: #999;
+    }
+
+#botao_menu_mobile{
+  display: none;
+}
+#menu_mobile{
+  display: none;
+}
+
+
+.clients{
+  border:1px solid #fff;
+ transition: 0.5s;
+ padding: 20px;
+}
+
+.clients:hover{
+
+  transition: 0.5s;
+    transform: scale(1.05);
+  box-shadow: 5px 20px 20px     #363636;
+  border:1px solid    #363636;
+ 
+}
+
+
+
+.img_ass{
+
+background-attachment: fixed;
+  background-image: url(http://carford.gq/assets/images/fundo01.jpg);
+
+}
+
+
+.img_b{
+
+  
+  transition: 0.5s;
+}
+
+.img_b:hover{
+   transition: 0.5s;
+  transform: scale(1.09);
+ 
+}

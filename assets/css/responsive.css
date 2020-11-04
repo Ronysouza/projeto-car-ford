@@ -1,0 +1,28 @@
+
+
+
+ @media (max-width: 700px){
+ 
+ 
+ #botao_menu_mobile{
+  display: block;
+}
+
+#menu_mobile div{
+	text-align: center;
+	background-color: #000;
+}
+
+.menu_top{
+	display: none;
+}
+
+.menu-inf-rodape{
+	display: none;
+}
+
+
+ 
+ }
+
+ 
